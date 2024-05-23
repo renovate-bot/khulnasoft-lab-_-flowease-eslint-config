@@ -8,7 +8,7 @@
     "@vue/eslint-config-typescript": "^11.0.3",
     "eslint": "~8.39",
     "eslint-config-airbnb-typescript": "~17.0",
-    "eslint-config-prettier": "~8.8",
+    "eslint-config-prettier": "~8.10.0",
     "eslint-import-resolver-typescript": "~3.5",
     "eslint-plugin-diff": "~2.0",
     "eslint-plugin-import": "~2.27",
