@@ -2,11 +2,11 @@
   "name": "@flowease/eslint-config",
   "version": "0.0.2",
   "devDependencies": {
-    "@types/eslint": "~8.37",
+    "@types/eslint": "~8.56.0",
     "@typescript-eslint/eslint-plugin": "~5.62.0",
     "@typescript-eslint/parser": "~5.59",
     "@vue/eslint-config-typescript": "^11.0.3",
-    "eslint": "~8.39",
+    "eslint": "~8.57.0",
     "eslint-config-airbnb-typescript": "~17.0",
     "eslint-config-prettier": "~8.8",
     "eslint-import-resolver-typescript": "~3.5",
