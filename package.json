@@ -11,7 +11,7 @@
     "eslint-config-prettier": "~8.8",
     "eslint-import-resolver-typescript": "~3.5",
     "eslint-plugin-diff": "~2.0",
-    "eslint-plugin-import": "~2.27",
+    "eslint-plugin-import": "~2.31.0",
     "eslint-plugin-flowease-local-rules": "~1.0",
     "eslint-plugin-prettier": "~4.2",
     "eslint-plugin-unicorn": "~46.0",
