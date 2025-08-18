@@ -15,7 +15,7 @@
     "eslint-plugin-flowease-local-rules": "~1.0",
     "eslint-plugin-prettier": "~4.2",
     "eslint-plugin-unicorn": "~46.0",
-    "eslint-plugin-unused-imports": "~2.0",
+    "eslint-plugin-unused-imports": "~4.2.0",
     "eslint-plugin-vue": "^9.12.0",
     "vue-eslint-parser": "^9.3.0"
   },
